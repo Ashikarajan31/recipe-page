@@ -1,0 +1,33 @@
+body{
+    padding:0px 0px;
+    margin: 0px 0px;
+}
+.h{
+    text-align: center;
+    background-color: rgb(197, 166, 227);
+    padding:20px 20px;
+    margin: 0px 0px;
+}
+.para{
+    text-align: center;
+    background-color:  rgb(184, 197, 130);
+    border-radius: 13px;
+    margin:20px 70px 20px 70px;
+    padding:15px;
+    
+}
+.ing{
+    background-color: rgb(184, 197, 130);
+    border-radius:13px ;
+    padding:15px;
+    margin:20px 70px 20px 70px;
+}
+.step{
+    background-color: rgb(184, 197, 130);
+    border-radius:13px ;
+    padding:15px;
+    margin:20px 70px 20px 70px;
+}
+.bo{
+    background-color: rgb(169, 118, 98);
+}
